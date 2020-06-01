@@ -211,9 +211,10 @@ a.scroll.bnr-btn i{
 /* banner */
 
 .banner-w3pvt {
-	background: url(../images/jaleel.jpg) no-repeat center;
+	background: url(../images/jaleel1.jpg) no-repeat center;
 	background-size: cover;
-	position: relative;
+    position: relative;
+    
 }
 
 .bnr-txt-w3pvt {
